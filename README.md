@@ -16,6 +16,9 @@ $ npm run build
 - Webpack
 
 ## TODO
+- [ ] lint
+- [ ] prettier
+- [ ] unit test
 - [ ] build css
 - [ ] add babel config
 - [ ] add webpack config for production
